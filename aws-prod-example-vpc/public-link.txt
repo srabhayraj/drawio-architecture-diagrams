@@ -1,0 +1,2 @@
+To view the architecture diagram, click below link or copy the link the paste it in new browser.
+https://viewer.diagrams.net/?tags=%7B%7D&title=aws-prod-example-vpc-demo.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1qnJC-WDscBjGAorwvwh4w7iDN32Ef4Fb%26export%3Ddownload
